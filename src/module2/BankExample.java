@@ -27,10 +27,9 @@ public class BankExample {
 
         if (resultBalance < 0){
             System.out.println("NO");
+            return balance;
         }else {
             System.out.println("OK " + commision + " " + resultBalance);
+            return resultBalance;
         }
-
-        
-        return resultBalance;
     }
