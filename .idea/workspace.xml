@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb29942-7c99-4fca-bd1a-e6be3e3a4598" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/module1/FifthClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/module1/FirstClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/module1/FourthClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/module1/SecondClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/module1/ThirdClass.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/FifthClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/FirstClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/FourhtClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/SecondClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/ThirdClass.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java_Core_GOIT.iws" />
     <ignored path=".idea/workspace.xml" />
