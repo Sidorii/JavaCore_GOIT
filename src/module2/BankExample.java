@@ -31,5 +31,6 @@ public class BankExample {
             System.out.println("OK " + commision + " " + resultBalance);
         }
 
+        
         return resultBalance;
     }
