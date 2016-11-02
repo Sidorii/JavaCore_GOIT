@@ -2,6 +2,323 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb29942-7c99-4fca-bd1a-e6be3e3a4598" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mod1/FifthClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mod1/FirstClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mod1/FourhtClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mod1/SecondClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mod1/ThirdClass.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Java_Core_GOIT.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/GromCode/Homework_1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/Homwork_1/FifthClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/Homwork_1/FirstClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/Homwork_1/FourthClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/Homwork_1/SecondClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/Homwork_1/ThirdClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/AnyNameHere.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/FifthClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/FirstClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/FirstProgram.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/FourthClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/SecondClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/TestTerminal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/ThirdClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/PersonController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/PersonController1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/PersonDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/PersonDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/PersonException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/practice/Условие.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/AbstractDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/AbstractDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/BaseEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/UserDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/UserDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/java8/ToMapExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/ownexception/OwnException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/questions/ownexception/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/ExeptionExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/FirstExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/MyOwnExeptionExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/RuntimeExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/SecondExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/SmallException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/Sys.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module10/webinar/TestException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/BufferedReadeExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/FileReaderExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/FileReaderJava7Example.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/PathExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/ReadFromKeyboadExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/practice/GooglePage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/practice/GooglePagePath.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/practice/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/practice/PrivatBank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/practice/PrivatBankPath.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module11/webinar/practice/ReadFromConsole.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/ArraysExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/LoopsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/OperatorsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/Questions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/VariablesExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/Vebinar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/homework/Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/practice/BubbleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/practice/Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/practice/Task2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/practice/Task3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/test2/test3/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module2/testpackage/ClassExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/Car.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/adsWebSite/AdEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/adsWebSite/CarAd.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/adsWebSite/HouseAd.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/adsWebSite/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/adsWebSite/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/adsWebSite/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/autoboxingAndUnboxing/Example1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/autoboxingAndUnboxing/Example2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/autoboxingAndUnboxing/Unboxing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task1/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task1/Bird.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task1/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task2/Adder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task2/Arithmetic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task2/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task3/CollegeStudent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task3/Course.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task3/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task3/SpecialStudent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task3/Student.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/homework/task4/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/phones/Android.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/phones/IPhone.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/phones/Phone.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/debug/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/filesytem/File.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/filesytem/FileSystem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/filesytem/Folder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/filesytem/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/filesytem/TXTFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/questions/filesytem/TextFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/Bank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/BankSystem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/BankSystemImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/ChinaBank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/Currency.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/EUBank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/USBank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/homework/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/AbstractDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/DAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/Task.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/TaskDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/dao/UserDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/first/Calc.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/first/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/practice/first/MoneyConverter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Boy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Car.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Girl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Honda.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Man.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/PersonOld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/RunTypes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Tesla.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/questions/Woman.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/DBConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/DeveloperEmployee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/HREmployee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/HRSpecialEmployee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/ManagerEmployee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/abstractclassesandmethods/TestAbstract.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/enums/FileExtensions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/enums/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/interfaces/DBService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/interfaces/DeveloperDbService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/interfaces/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/interfaces/ManagerDbService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/interfaces/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Circle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/ClassA.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/ClassB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Figure.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Rectangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Square.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/polymorphism/Triangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/webinar/stringoverview/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/API.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/BookingComAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/Controller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/DAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/DAOHardImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/DAOOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/GoogleAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/Room.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/HW/TripAdvisorAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/practice/Apple.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/practice/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/practice/Square.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/practice/Triangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/practice/View.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/practice/viewHash/ViewHash.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/questions/GlobalVaribaleExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/questions/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/equalshashcode/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/equalshashcode/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/equalshashcode/ObjectExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/equalshashcode/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/uml/Book.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/uml/BookingComAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/uml/ClassA.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/uml/ClassB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/uml/ClassC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/webinar/uml/Library.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/HW/ArrayUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/HW/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/HW/UserUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/Test2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/ArrayUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/ArrayUtilsMain.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/Connection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/Main2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/Order.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/practice/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/Controller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/DAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/DAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/Item.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/Order.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/Store.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions2/ArrayMerge.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/questions2/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/finals/DBConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/finals/DBService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/finals/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/finals/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/finals/UserDBService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/statics/Channel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/statics/MathUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/statics/MathUtilsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/statics/MathUtilsTest1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/statics/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module6/webinar/statics/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/HW/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/HW1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/IncreaseOrder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/WarmUpTask1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/WarmUpTask2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/WarmUpTask3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/WarmUpTask4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/practice/WarmUpTask5.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/questions/ComparatorExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/questions/IteratorExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/questions/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/questions/MessageSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/questions/Questions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/questions/SortMessages.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/arraylist_linkedlist/ArrayListExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/arraylist_linkedlist/LinkedListExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/compare/CustomCompator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/iterator/IteratorExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/sets/SetExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/sets/TreeSetExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module7/webinar/vector_queue/QueueExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/HW.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Circle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Group.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Point.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Printer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Rectangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Shape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/ShapeType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/ShapeUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/practice/Square.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/ListIteratorExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/Order.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/Q3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/Q7.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/Q8.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/Q9.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/TestDataStructure.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/questions/TwoGenericsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/Boo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/Foo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/GenericMethodExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/MyClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/MyClassWithObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/StartGenericsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/generics/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/maps/MapExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/maps/MapMediumExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/maps/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/maps/Task.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module8/webinar/maps/TreeSetExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/AbstractDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/AbstractDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/BaseEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/Order.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/TestMapEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/questions/UserDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/functions/ConsumerExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/functions/Examples.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/functions/Job.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/functions/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/functions/SupplierExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/functions/TestClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/lambdas/Converter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/lambdas/LambdaExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/lambdas/PersonExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/streams/ParallelStreamsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module9/webinar/streams/StreamsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/Controller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/MessageDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/MessageDAOImp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/MsgType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/UserDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/UserDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sn/UserUtil.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java_Core_GOIT.iws" />
@@ -21,7 +338,58 @@
     <favorites_list name="Java_Core_GOIT" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FifthClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mod1/FifthClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mod1/FirstClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FourhtClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mod1/FourhtClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mod1/SecondClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirdClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mod1/ThirdClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,6 +415,18 @@
         <option value="$PROJECT_DIR$/src/Homwork_1/ThirdClass.java" />
         <option value="$PROJECT_DIR$/src/Homwork_1/SecondClass.java" />
         <option value="$PROJECT_DIR$/src/GromCode/Homework_1.java" />
+        <option value="$PROJECT_DIR$/src/src/FourhtClass.java" />
+        <option value="$PROJECT_DIR$/src/src/mod1/FifthClass.java" />
+        <option value="$PROJECT_DIR$/src/src/mod1/FirstClass.java" />
+        <option value="$PROJECT_DIR$/src/src/mod1/FourhtClass.java" />
+        <option value="$PROJECT_DIR$/src/src/mod1/SecondClass.java" />
+        <option value="$PROJECT_DIR$/src/src/mod1/ThirdClass.java" />
+        <option value="$PROJECT_DIR$/src/modu1/FifthClass.java" />
+        <option value="$PROJECT_DIR$/src/modu1/FirstClass.java" />
+        <option value="$PROJECT_DIR$/src/modu1/FourhtClass.java" />
+        <option value="$PROJECT_DIR$/src/modu1/SecondClass.java" />
+        <option value="$PROJECT_DIR$/src/modu1/ThirdClass.java" />
+        <option value="$PROJECT_DIR$/src/mod1/ThirdClass.java" />
       </list>
     </option>
   </component>
@@ -113,10 +493,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -565,6 +941,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module10/practice/PersonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module7/practice/WarmUpTask2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module2/homework/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mod1/FifthClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mod1/FirstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mod1/FourhtClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mod1/SecondClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mod1/ThirdClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
