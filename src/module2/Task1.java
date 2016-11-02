@@ -25,19 +25,19 @@ public class Task1 {
 
         int index = 0;
         for (int i = 0; i < balances.length; i++) {
-                if (balances[i] > 1000) {
-                    result[index] = names[i];
-                    index++;
-                }
+            if (balances[i] > 1000) {
+                result[index] = names[i];
+                index++;
+            }
         }
 
         return result;
     }
 
     ///*тип возвращаемого значения*/void  /*название метода*/ (/*параметры*/) {
-        //логика
+    //логика
 
-        //return //что-то
+    //return //что-то
     //}
 
     int testMethod(int element, double test1, char pool) {
@@ -85,7 +85,6 @@ public class Task1 {
         int[] balances1 = {200, 200, 500, 4000, 30};
 
     }
-
 
 
 }
