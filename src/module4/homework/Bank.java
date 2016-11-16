@@ -65,7 +65,7 @@ public abstract class Bank {
 
     @Override
     public String toString() {
-        return "{" +
+        return "Bank{" +
                 "currency=" + currency +
                 '}';
     }

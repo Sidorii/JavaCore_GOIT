@@ -10,7 +10,6 @@ public class Main {
         String test = "Hello there guys!";
 
 
-
         System.out.println(test.toLowerCase());
     }
 }
