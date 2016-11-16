@@ -7,10 +7,35 @@ import java.util.HashSet;
 /**
  * Created by Иван on 16.11.2016.
  */
-public class Controller {
+public class Controller implements DAO {
 
     private API apis[];
     private DAOImpl db;
+
+    @Override
+    public Room save(Room room) {
+        return db.save(room);
+    }
+
+    @Override
+    public boolean delete(Room room) {
+        return db.delete(room);
+    }
+
+    @Override
+    public Room update(Room room) {
+        return db.update(room);
+    }
+
+    @Override
+    public Room findByID(long id) {
+        return db.findByID(id);
+    }
+
+    @Override
+    public Room[] getAll() {
+        return db.getAll();
+    }
 
     Controller(){
         apis = new API[3];
