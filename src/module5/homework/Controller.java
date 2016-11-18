@@ -12,6 +12,15 @@ public class Controller implements DAO {
     private API apis[];
     private DAOImpl db;
 
+
+    Controller(){
+        apis = new API[3];
+        db = new DAOImpl();
+        apis[0] = new BookingComAPI();
+        apis[1] = new GoogleAPI();
+        apis[2] = new TripAdvisorAPI();
+    }
+
     @Override
     public Room save(Room room) {
         return db.save(room);
@@ -35,14 +44,6 @@ public class Controller implements DAO {
     @Override
     public Room[] getAll() {
         return db.getAll();
-    }
-
-    Controller(){
-        apis = new API[3];
-        db = new DAOImpl();
-        apis[0] = new BookingComAPI();
-        apis[1] = new GoogleAPI();
-        apis[2] = new TripAdvisorAPI();
     }
 
     Room[] requestRooms(int price, int persons, String city, String hotel){
